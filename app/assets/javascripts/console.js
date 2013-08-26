@@ -1,4 +1,4 @@
-var lastEscTime = 0
+/*var lastEscTime = 0
 jQuery(function($) {
     $('#clearResults').click(function() { $('#results').empty() })
     $('#runScript').click(function() {
@@ -13,4 +13,4 @@ jQuery(function($) {
             lastEscTime = new Date().getTime()
         }
     })
-})
+})*/
