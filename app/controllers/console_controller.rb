@@ -1,4 +1,5 @@
 require 'stringio'
+
 class ConsoleController < ApplicationController
   def index
   end
